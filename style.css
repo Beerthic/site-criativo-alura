@@ -1,8 +1,12 @@
-header{
+.cabecalho{
     background-color: #caa419;
     color: #D9D9D9;
 }
 
-body{
-    background-color: #FFD234
+.cabecalho-titulo {
+
+}
+
+.cabecalho-texto {
+    
 }
